@@ -4,7 +4,7 @@ A personal resume website showcasing professional experience and skills.
 
 ## Live Site
 
-Visit the live site here: <https://resume-site-by-anoop.netlify.app/>
+Visit the live site here: <https://fabulous-alpaca-71cc55.netlify.app//>
 
 ## Getting Started
 
